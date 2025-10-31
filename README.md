@@ -38,7 +38,7 @@ The Power BI dashboard includes:
 - **Patient Demographics:** Age and gender distribution.  
 - **Lesion Analysis:** Frequency by body part (scalp, face, trunk, extremities, etc.).  
 - **Cancer Type Trends:** Malignant vs benign distribution.  
-- **Geographical Insights:** Case distribution across regions (if applicable).  
+- **Geographical Insights:** Case distribution across regions.  
 
 ---
 
