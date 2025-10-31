@@ -48,5 +48,8 @@ The Power BI dashboard includes:
 - Demonstrated how analytics can enhance **medical decision-making** and **disease awareness**.
 
 ---
-
+## 📂 How to Use
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Navneet4276/Healthcare-Data-Analysis
 
